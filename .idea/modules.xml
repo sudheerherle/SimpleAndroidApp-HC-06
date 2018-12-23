@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimpleAndroidApp-HC-06.iml" filepath="$PROJECT_DIR$/SimpleAndroidApp-HC-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/Parse-1.7.0/libs_Parse-1.7.0.iml" filepath="$PROJECT_DIR$/libs/Parse-1.7.0/libs_Parse-1.7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/acra-4.6.1/libs_acra-4.6.1.iml" filepath="$PROJECT_DIR$/libs/acra-4.6.1/libs_acra-4.6.1.iml" />
     </modules>
   </component>
 </project>
